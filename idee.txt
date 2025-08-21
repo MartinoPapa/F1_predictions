@@ -1,1 +1,3 @@
-Usare bootstrap
+usare bootstrap
+
+migliorare il clustering considerando l'usura delle gomme
