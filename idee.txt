@@ -1,3 +1,8 @@
 usare bootstrap
 
 migliorare il clustering considerando l'usura delle gomme
+
+Ripartire con ordine:
+- Clustering migliore è quello con solo i sector time, ci sono troppi pochi dati con usura gomme alta
+-- EXTRA: per una migliore precisione misurare la differenza dal settore veloce e mettere insieme i dati di tutte le piste precedenti
+
